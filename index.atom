@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="custom generator for seo" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="en-gb">
+	<title type="text">HOME</title>
+	<subtitle type="text">custom description for seo</subtitle>
+	<link rel="alternate" type="text/html" href="http://www.peerlessoil.com"/>
+	<id>http://www.peerlessoil.com/</id>
+	<updated>2019-12-08T03:24:32+00:00</updated>
+	<generator uri="http://joomla.org" version="1.6">custom generator for seo</generator>
+	<link rel="self" type="application/atom+xml" href="http://www.peerlessoil.com/?format=feed&amp;type=atom"/>
+</feed>
